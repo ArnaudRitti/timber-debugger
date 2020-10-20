@@ -13,7 +13,7 @@
 	],
 	"autoload": {
 		"psr-4": {
-			"Djboris88\\Timber\\": "src/"
+			"Djboris88\\Timber\\": ""
 		},
 		"files": [
 			"functions.php"
